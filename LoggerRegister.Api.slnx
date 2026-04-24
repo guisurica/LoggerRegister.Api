@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LoggerRegister.Api/LoggerRegister.Api.csproj" />
+  <Project Path="LoggerRegisterWorker/LoggerRegisterWorker.csproj" />
+</Solution>

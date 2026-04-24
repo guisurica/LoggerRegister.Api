@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LoggerRegisterWorker": {
+      "commandName": "Project",
+      "commandLineArgs": "CRITICAL"
+    }
+  }
+}
